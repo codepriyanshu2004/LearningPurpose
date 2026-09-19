@@ -1,0 +1,14 @@
+.nav1{
+    display: flex;
+    justify-content: space-between;  
+    margin-left: 38%;
+    
+
+}
+.logo{
+    size: 3px;
+}
+
+.left{
+    margin-left: 40%;
+}
